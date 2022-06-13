@@ -1,0 +1,23 @@
+/* Selects all paragraphs */
+p {
+    color: red;
+}
+
+/* Other CSS rules */
+body {
+    background-color:lightgoldenrodyellow;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+/*Overides text formats in paragraphs*/
+.text {
+    color:darkblue;
+}
+
+#chonk {
+    width: 25%;
+    height: auto;
+}
